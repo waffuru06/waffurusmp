@@ -1,5 +1,5 @@
 # Downloading the mods
-Click on the *mods* folder and click the green download button on the top right. Make sure they are downloaded, then head to your Minecraft directory folder.
+Download all the files from https://drive.google.com/drive/folders/1Xe-ul2GBR8QOVNSfRL6X2h-UVdDVggUA?usp=sharing and extract them into your mods directory.
 ```
 Mac - Go into your Finder and press Cmd + Shift + G
       /Users/[username]/Library/Application Support/minecraft
